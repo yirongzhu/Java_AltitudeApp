@@ -1,0 +1,3 @@
+Suppose there's an rectangle island, the north and west of the island are Pacific ocean and the south and east of the island are Atlantic ocean.
+Now, you know each points' altitude on the island. Suddenly, it's starting to rain and the water could flow from higher altitude to lower or between
+the same level altitude. The task if to find the point on the island that could let the rain water both flow to Pacific and Atlantic.
